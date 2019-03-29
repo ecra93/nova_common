@@ -57,6 +57,8 @@ add_message_files(
   GimbalCmd.msg
   IMU.msg
   Gps.msg
+  Goal.msg
+  DummyOdometry.msg
 )
 
 ## Generate services in the 'srv' folder
